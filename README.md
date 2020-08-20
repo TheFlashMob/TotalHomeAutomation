@@ -1,7 +1,7 @@
 # TotalHomeAutomation IOT project - english/Englisch/ingles,espanol/spanisch/Spanisch, deutsch/german/aleman
-we are looking for members all over the planet
-Community Project, founded at VHS Berlin Neukölln, for a complete HomeAutomation System,
-developed by people from all over the world, any culture and any language. 
+we are looking for members all over the planet.
+This is a community project, founded at VHS Berlin Neukölln. Intention is to develop a complete home automation system.
+Developed by people from all over the world, any culture and any language. 
 
 If you are interested to participate, pls. let us know your skills and the reason 
 why you want to be part of our team and maybe your ideas. 
